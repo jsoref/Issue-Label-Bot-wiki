@@ -1,6 +1,6 @@
 ## 1.0 Purpose
 
-The purpose of the policy is to establish the goals for the breach response process.
+The purpose of the policy is to establish the goals for the breach response process.  This document is intended for compliance for the [Incident response plan](https://developer.github.com/marketplace/getting-started/security-review-process/#incident-response-plan) on the GitHub Marketplace.
 
 ## 1.1 Background
 
